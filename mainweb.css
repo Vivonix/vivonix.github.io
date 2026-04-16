@@ -3,3 +3,7 @@ body {
   font-family: Monospace;
   text-align: center;
 }
+
+p {
+  font-size: 16px;
+}
