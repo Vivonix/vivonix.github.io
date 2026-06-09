@@ -2,7 +2,7 @@
 <hr>
 This website is accessible through: <a href>vivonix.github.io</a>
 <br>
-But it also can be opened through: vivonix.baba.pet
+But it also can be opened through: <a href>vivonix.baba.pet</a>
 <hr>
 Thanks to:
 @Babakinha for letting me use the .baba.pet link!
